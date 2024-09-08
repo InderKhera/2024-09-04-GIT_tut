@@ -6,5 +6,5 @@
 `git push`: pushes changes from local to remote
 `git pull`: updates changes of repo from remote to local repo
 
-
+this file will be using python via jupyter lab as well as R via RStudio
 
