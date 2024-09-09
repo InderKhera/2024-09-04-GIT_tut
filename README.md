@@ -1,6 +1,5 @@
-# DCSI 521 git examples for Chapter 2 and 3 (Sep 08-09, 2024)
+# DCSI 521 git examples for Chapter 2 and 3 (Sep 08-09, 2024) : history and conflicts
 
-HERE IS LOCAL EDIT
 
 
 `git clone <URL>`:  does a one-time / only-time downloaad of a git repo from <URL>
@@ -22,4 +21,3 @@ this file will be using python via jupyter lab as well as R via RStudio
 
 `git log --oneline`: shows the one line version of git code
 
-REMOTE EDIT AT THE BOTTOM
