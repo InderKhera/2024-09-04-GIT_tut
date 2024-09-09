@@ -1,4 +1,5 @@
-# DCSI 521 git examples for Chapter 2 and 3 (Sep 08-09, 2024) : history and conflicts
+# DCSI 521 git examples for Chapter 2 and 3 (Sep 09, 2024): history & conflicts
+
 
 
 
