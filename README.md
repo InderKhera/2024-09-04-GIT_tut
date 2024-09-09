@@ -18,3 +18,5 @@
 this file will be using python via jupyter lab as well as R via RStudio
 
 `git log --oneline`: shows the one line version of git code
+
+REMOTE EDIT AT THE BOTTOM
